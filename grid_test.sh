@@ -1,0 +1,1 @@
+python3 ./image_grid/src/train_face.py --face_path $1 --seg_path $2  --model_name $3 --file_name $4
