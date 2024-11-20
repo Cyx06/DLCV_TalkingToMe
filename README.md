@@ -1,4 +1,15 @@
 # DLCV Final Project ( Talking to me )
+
+This project from DLCV final project, an on-campus competition held by NVIDIA. 
+
+Our team implemented topic "Talking to me" and received a special award, 
+
+"Talking to me" is an implementation of Active Speaker Detection, the target is to detect who is speaking in a visual scene of one or more speakers by input sound video.
+
+The implementation included designing data augmentation algorithm, implementing and training the model, and conducting follow-up discussions.
+
+The following is project implementation details.
+
 ## Group7 guardyongfuvil
 
 ```
